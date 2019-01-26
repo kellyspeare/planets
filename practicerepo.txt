@@ -1,22 +1,5 @@
 mars is cool
 
-<<<<<<< HEAD
 too cool for school
-=======
-more notes on stuff
 
-blah lkjdlfk
-
-glah blah blah
-
-adding more notes
-
-mars is cool blahblahblah
-
-but she can be cool sometimes
-
-omg what did you do, amelia! you ruined it all!!!
-
->>>>>>> fcf764b883acd9b8c6e459f3051f723179ac3997
-
-hmm why is this so messed up
+amelia fixed everything
